@@ -16,5 +16,6 @@ public class NetBeansProj {
     public static void main(String[] args) {
         // TODO code application logic here
         int i = 0;
+        char c = 'a';
     }
 }
